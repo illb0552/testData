@@ -10,7 +10,7 @@
   },
   "internal": [
     {
-      "uuid": 1
+      "uuid": 1,
       "pwhoBackup": "str",
       "drqsGroupId": 233,
       "commonName": "bb.com",
@@ -18,7 +18,7 @@
       "country": "country",
       "organization": "org",
       "operationUnit": "ou",
-      "sans": "",
+      "sans": ["1", "2"],
       "state": "dc"
     }
   ]
