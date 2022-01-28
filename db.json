@@ -7,5 +7,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "internal": [
+    {
+      "uuid": 1
+      "pwhoBackup": "str",
+      "drqsGroupId": 233,
+      "commonName": "bb.com",
+      "location": "loc",
+      "country": "country",
+      "organization": "org",
+      "operationUnit": "ou",
+      "sans": ["1", "2"],
+      "state": "dc"
+    }
+  ],
 }
