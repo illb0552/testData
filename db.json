@@ -1,4 +1,6 @@
-    {
-      "name": "Rosa Park",
-      "uuid": "456"
-    }
+{
+  "userId": 1,
+  "id": 1,
+  "title": "delectus aut autem",
+  "completed": false
+}
