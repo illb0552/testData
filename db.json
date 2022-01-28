@@ -1,20 +1,4 @@
-{
-  "results": [
-    {
-      "name": "Harry Potter",
-      "uuid": "123"
-    },
-    {
-      "name": "Don Quixote",
-      "uuid": "246"
-    },
-    {
-      "name": "Joan of Arc",
-      "uuid": "789"
-    },
     {
       "name": "Rosa Park",
       "uuid": "456"
     }
-  ]
-}
