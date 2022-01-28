@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "internal": [
+  "internals": [
     {
       "uuid": 1,
       "pwhoBackup": "str",
@@ -18,7 +18,7 @@
       "country": "country",
       "organization": "org",
       "operationUnit": "ou",
-      "sans": ["1", "2"],
+      "sans": "",
       "state": "dc"
     }
   ]
